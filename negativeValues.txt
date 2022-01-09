@@ -1,0 +1,6 @@
+#x = -20
+#y = -45
+move #x
+turn #y
+move #x
+turn 90

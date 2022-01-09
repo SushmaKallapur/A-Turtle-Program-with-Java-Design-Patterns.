@@ -1,0 +1,9 @@
+#x = 2
+repeat 3
+move #x
+turn 90
+end
+move 10
+repeat #x
+move #x
+end
